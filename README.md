@@ -1,2 +1,4 @@
-# Crud-Django
-crud project using django framework
+$ virtualenv myenv
+$ source/myenv/bin/activate
+$ pip install -r requirements.txt
+$ python manage.py runserver
